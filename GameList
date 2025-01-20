@@ -1,0 +1,2 @@
+PlantsVS.Zombies: Plants vs. Zombies is a classic tower defense game. I think we can make it 'infinite' and be like a rogue-like game(but having an end when enemy gets stronger enough). 
+We can simply define enemy and our plants by using one simple function using parameters like 'HP, damage, moving speed, attack methode'. 
